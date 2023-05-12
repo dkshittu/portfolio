@@ -1,2 +1,2 @@
 # portfolio
-My Portfolio showcasing my projects and credentials
+A portfolio showcasing my projects and credentials
